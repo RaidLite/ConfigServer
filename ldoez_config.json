@@ -1,6 +1,6 @@
 {
-  "battle_url": "http://localhost",
-  "main_url": "http://localhost",
+  "battle_url": "offline://",
+  "main_url": "offline://",
   "version": 2,
-  "ping_urls": []
+  "ping_urls": ["local"]
 }
