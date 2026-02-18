@@ -2,5 +2,7 @@
   "battle_url": "offline://",
   "main_url": "offline://",
   "version": 2,
+  "url_server": "offline://",
+  "url_login_server": "offline://",
   "ping_urls": ["local"]
 }
