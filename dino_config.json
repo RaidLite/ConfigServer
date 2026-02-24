@@ -63,7 +63,7 @@
 			"statistics": true,
 			"enable_news_dialog": false,
 			"enable_news_button": false,
-			"alpha_version": false,
+			"alpha_version": true,
 			"send_d2d_events": true,
 			"send_additional_d2d_events": true,
 			"check_reference_version": true
